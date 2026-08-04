@@ -39,6 +39,7 @@
 <h1 align="center">Anbarasan</h1>
 <p align="center">
   <b>Senior .NET Full Stack Developer</b>
+  <b>Senior .NET Full Stack Developer</b>
 </p>
 <p align="center">
   <sub>10+ Years of Experience &nbsp;•&nbsp; Oct 2015 – Present &nbsp;•&nbsp; Chennai, India</sub>
