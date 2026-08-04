@@ -1,7 +1,11 @@
 <!--
 ████████████████████████████████████████████████████████████████████████████████████
   GITHUB PROFILE README — Anbarasan
+<<<<<<< HEAD
   Senior .NET Full Stack Developer
+=======
+  Senior .NET Full Stack Developer 
+>>>>>>> 85777b3142b26939a306a8f6981701a8277465c5
   Theme: GitHub Dark | Palette: Blue / White / Gray
 
   QUICK EDIT GUIDE (find & replace):
@@ -14,8 +18,13 @@
 
 <!-- ═══════════════════════════ 1. PROFESSIONAL BANNER ═══════════════════════════ -->
 <div align="center">
+<<<<<<< HEAD
   <img alt="Senior .NET Full Stack Developer"
        src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,40:1f6feb,70:1f6feb,100:161b22&height=200&section=header&fontSize=34&fontAlignY=50&fontColor=ffffff&text=Senior%20.NET%20Full%20Stack%20Developer" />
+=======
+  <img alt="Senior .NET Full Stack Developer "
+       src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,40:1f6feb,70:1f6feb,100:161b22&height=200&section=header&fontSize=34&fontAlignY=42&fontColor=ffffff&text=Senior%20.NET%20Full%20Stack%20Developer&desc=Manufacturing%20ERP%20%7C%20SAP%20Business%20One%20Integration&descAlignY=62&descSize=16&descColor=dbe4f0" />
+>>>>>>> 85777b3142b26939a306a8f6981701a8277465c5
 </div>
 
 <!-- ═══════════════════════════ 2. PROFILE PHOTO ═════════════════════════════════ -->
