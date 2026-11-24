@@ -1,27 +1,15 @@
 <p align="center">
-  <img src="./assets/profile-banner.webp" width="900" alt="Illustration of a robotic arm and inventory shelves on a manufacturing line">
-</p>
-
-<h1 align="center">Hi, I’m Anbarasan</h1>
-<p align="center"><strong>Senior .NET Full Stack Developer</strong><br>
-Manufacturing ERP · Production Planning · Supply Chain Systems</p>
-
-<p align="center">
-  <img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=flat-square">
-  <img alt="ASP.NET Core" src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&amp;logo=dotnet&amp;logoColor=white">
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB">
-  <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-A4262C?style=flat-square">
-  <img alt="SAP Business One" src="https://img.shields.io/badge/SAP%20Business%20One-075CB5?style=flat-square&amp;logo=sap&amp;logoColor=white">
+  <img src="./assets/portfolio-hero.webp" width="920" alt="Anbarasan. Senior .NET Full Stack Developer specializing in manufacturing ERP, production planning, and supply chain systems.">
 </p>
 
 <p align="center">
+  <a href="https://anbarasan1992.github.io/Anbarasan1992/"><strong>Open interactive portfolio ↗</strong></a> ·
   <a href="#selected-work">Selected work</a> ·
   <a href="#technology">Technology</a> ·
-  <a href="#experience">Experience</a> ·
-  <a href="https://github.com/Anbarasan1992?tab=repositories">Public repositories</a>
+  <a href="#experience">Experience</a>
 </p>
 
-I have **10+ years of experience** building business applications with C#, ASP.NET Core, React, and SQL Server. I build APIs and interfaces for production planning, inventory, purchasing, and supplier coordination, including integration with SAP Business One.
+I have **10+ years of experience** building enterprise software for manufacturing and supply chain operations. My work spans ASP.NET Core APIs, React interfaces, SQL Server data models, and SAP Business One integrations.
 
 ## Selected work
 
@@ -32,9 +20,7 @@ I have **10+ years of experience** building business applications with C#, ASP.N
 | **Vendor portal** | Purchase orders, supplier acknowledgements, and invoices |
 | **Engineering estimation** | Bill-of-materials costing, quotations, revisions, and approvals |
 
-### How the workflows connect
-
-Customer demand informs production planning. Planning and inventory help determine purchasing needs, and suppliers acknowledge purchase orders and submit invoices through the vendor portal.
+### Manufacturing and procurement workflow
 
 ```mermaid
 flowchart TD
@@ -61,3 +47,5 @@ flowchart TD
 | Nov 2023 – Present | Senior .NET Full Stack Developer | Covalsys Soft Private Limited |
 | 2019 – Nov 2023 | .NET Full Stack Developer | Gain Insights Solutions Private Limited |
 | Oct 2015 – 2019 | .NET Developer | Abile Business Solutions Private Limited |
+
+[Browse my public repositories](https://github.com/Anbarasan1992?tab=repositories)

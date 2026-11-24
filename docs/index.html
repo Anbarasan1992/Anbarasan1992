@@ -1,0 +1,142 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#0a0c0b">
+  <meta name="description" content="Anbarasan’s portfolio in .NET, manufacturing ERP, production planning, and supply chain systems.">
+  <title>Anbarasan — Senior .NET Full Stack Developer</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="portfolio.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+  <header class="site-header wrap">
+    <a class="brand" href="#top" aria-label="Anbarasan, home">A<span>.</span></a>
+    <nav aria-label="Main navigation">
+      <a href="#work">Work</a>
+      <a href="#about">About</a>
+      <a href="#experience">Experience</a>
+    </nav>
+    <a class="github" href="https://github.com/Anbarasan1992">GitHub <span aria-hidden="true">↗</span></a>
+  </header>
+  <main id="main">
+    <section class="hero" id="top" aria-labelledby="hero-title">
+      <div class="hero-visual" aria-hidden="true">
+        <div class="hero-grid"></div>
+        <canvas id="stars"></canvas>
+        <div class="halo"></div>
+        <div class="cross cross-one"></div><div class="cross cross-two"></div>
+      </div>
+      <div class="hero-copy wrap">
+        <p class="eyebrow hero-role"><span class="signal"></span> Senior .NET Full Stack Developer</p>
+        <h1 id="hero-title">Anbarasan<span>.</span></h1>
+        <p class="hero-summary">I build enterprise software for manufacturing, production planning, and supply chain operations.</p>
+        <a class="button primary" href="#work">Explore my work <span aria-hidden="true">↓</span></a>
+      </div>
+      <div class="hero-footer wrap" aria-label="Core technologies">
+        <span>C#</span><span>ASP.NET Core</span><span>React</span><span>SQL Server</span><span>SAP Business One</span>
+      </div>
+    </section>
+
+    <section class="section wrap" id="work" aria-labelledby="work-title">
+      <div class="section-heading">
+        <div><p class="eyebrow"><span class="signal"></span> Portfolio</p><h2 id="work-title">Selected work<span>.</span></h2></div>
+        <p>Enterprise applications for planning, procurement, and engineering.</p>
+      </div>
+      <div class="projects">
+        <article class="project project-feature">
+          <div class="project-art manufacturing">
+            <img src="assets/manufacturing.webp" width="1440" height="480" alt="Illustration of a robotic arm on a manufacturing line" loading="lazy">
+          </div>
+          <div class="project-copy">
+            <p class="eyebrow">ERP &amp; integration</p>
+            <h3>Manufacturing ERP</h3>
+            <p>Production planning, material requirements, inventory, and purchasing integrated with SAP Business One.</p>
+            <button class="detail-button" type="button" data-project="erp" aria-label="Details about Manufacturing ERP">View details <span aria-hidden="true">↗</span></button>
+          </div>
+        </article>
+        <article class="project">
+          <div class="project-art kanban" role="img" aria-label="Illustrated planning board with demand, allocation, and dispatch columns">
+            <div class="board" aria-hidden="true">
+              <div><b>Demand</b><i></i><i></i><i></i></div>
+              <div><b>Allocation</b><i></i><i></i></div>
+              <div><b>Dispatch</b><i></i></div>
+            </div>
+          </div>
+          <div class="project-copy">
+            <p class="eyebrow">Supply chain</p>
+            <h3>Kanban &amp; supplier planning</h3>
+            <p>Turn customer demand and safety-stock requirements into supplier allocations and dispatch plans.</p>
+            <button class="detail-button" type="button" data-project="kanban" aria-label="Details about Kanban and supplier planning">View details <span aria-hidden="true">↗</span></button>
+          </div>
+        </article>
+        <article class="project">
+          <div class="project-art vendor" role="img" aria-label="Illustrated procurement sequence from purchase order to acknowledgement and invoice">
+            <div class="vendor-flow" aria-hidden="true"><span>Purchase order</span><i>↓</i><span>Acknowledgement</span><i>↓</i><span>Invoice</span></div>
+          </div>
+          <div class="project-copy">
+            <p class="eyebrow">Procurement</p>
+            <h3>Vendor portal</h3>
+            <p>Supplier-facing workflows for purchase orders, acknowledgements, and invoices.</p>
+            <button class="detail-button" type="button" data-project="vendor" aria-label="Details about Vendor portal">View details <span aria-hidden="true">↗</span></button>
+          </div>
+        </article>
+        <article class="project">
+          <div class="project-art estimation" role="img" aria-label="Illustrated diagram showing material and operation inputs flowing into a quotation">
+            <div class="estimate-flow" aria-hidden="true"><div><span>Materials</span><span>Operations</span></div><i>→</i><span>Quotation</span></div>
+          </div>
+          <div class="project-copy">
+            <p class="eyebrow">Costing &amp; quotations</p>
+            <h3>Engineering estimation</h3>
+            <p>Bill-of-materials costing, quotation preparation, revisions, and approvals.</p>
+            <button class="detail-button" type="button" data-project="estimation" aria-label="Details about Engineering estimation">View details <span aria-hidden="true">↗</span></button>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <section class="section about" id="about" aria-labelledby="about-title">
+      <div class="wrap about-layout">
+        <div>
+          <p class="eyebrow"><span class="signal"></span> About</p>
+          <h2 id="about-title">Building for<br>operations<span>.</span></h2>
+          <p class="about-copy">I have 10+ years of experience building business applications. My work combines REST APIs, React interfaces, and relational data models with integrations such as SAP Business One.</p>
+        </div>
+        <dl class="stack">
+          <div><dt>Backend</dt><dd>C#, ASP.NET Core, ASP.NET MVC, REST APIs, Entity Framework, Dapper</dd></div>
+          <div><dt>Frontend</dt><dd>React, JavaScript, HTML, CSS, Bootstrap</dd></div>
+          <div><dt>Data</dt><dd>SQL Server, T-SQL, SAP HANA</dd></div>
+          <div><dt>Integration &amp; delivery</dt><dd>SAP Business One Service Layer, JWT, Git, IIS</dd></div>
+        </dl>
+      </div>
+    </section>
+
+    <section class="section wrap" id="experience" aria-labelledby="experience-title">
+      <p class="eyebrow"><span class="signal"></span> Career</p>
+      <h2 id="experience-title">Experience<span>.</span></h2>
+      <ol class="timeline">
+        <li><span class="period">Nov 2023 – Present</span><div><h3>Senior .NET Full Stack Developer</h3><p>Covalsys Soft Private Limited</p></div></li>
+        <li><span class="period">2019 – Nov 2023</span><div><h3>.NET Full Stack Developer</h3><p>Gain Insights Solutions Private Limited</p></div></li>
+        <li><span class="period">Oct 2015 – 2019</span><div><h3>.NET Developer</h3><p>Abile Business Solutions Private Limited</p></div></li>
+      </ol>
+    </section>
+  </main>
+  <footer class="site-footer">
+    <div class="wrap footer-layout">
+      <div><p class="eyebrow">Anbarasan</p><h2>Find me on GitHub<span>.</span></h2></div>
+      <a class="button secondary" href="https://github.com/Anbarasan1992?tab=repositories">Public repositories <span aria-hidden="true">↗</span></a>
+    </div>
+  </footer>
+
+  <dialog id="project-detail" aria-labelledby="detail-title">
+    <div class="dialog-body">
+      <form method="dialog"><button class="close" aria-label="Close project details">×</button></form>
+      <p class="eyebrow" id="detail-category"></p>
+      <h2 id="detail-title"></h2>
+      <p id="detail-summary"></p>
+      <ol id="detail-steps"></ol>
+    </div>
+  </dialog>
+</body>
+</html>
