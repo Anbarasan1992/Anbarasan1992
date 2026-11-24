@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://anbarasan1992.github.io/Anbarasan1992/"><strong>Open interactive portfolio ↗</strong></a> ·
+  <a href="./docs"><strong>Portfolio source</strong></a> ·
   <a href="#selected-work">Selected work</a> ·
   <a href="#technology">Technology</a> ·
   <a href="#experience">Experience</a>
