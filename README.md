@@ -1,77 +1,32 @@
-<div align="center">
+# Anbarasan
 
-# Hi, I'm Anbarasan 👋
+**Senior .NET Full Stack Developer**  
+Manufacturing ERP · Production Planning · Supply Chain Systems
 
-### Senior .NET Full Stack Developer | Manufacturing ERP & Supply Chain Systems
-
-**10+ years building business applications** · ASP.NET Core · React · SQL Server
-
-[![GitHub](https://img.shields.io/badge/GitHub-Anbarasan1992-181717?logo=github&logoColor=white)](https://github.com/Anbarasan1992)
-
-</div>
-
----
-
-## About me
-
-I'm a full-stack developer focused on enterprise applications for **manufacturing, production planning, inventory, and supply chain operations**. I build APIs and user interfaces, work with relational data models, and integrate business systems, including SAP Business One.
-
-My approach: make business rules explicit, keep services maintainable, and design workflows around real operational exceptions—not just the happy path.
-
-## Core technology
-
-| Area | Tools & technologies |
-| --- | --- |
-| Backend | C#, ASP.NET Core, REST APIs, ASP.NET MVC, Entity Framework, Dapper |
-| Frontend | React, JavaScript, HTML, CSS, Bootstrap |
-| Data | SQL Server, SAP HANA, T-SQL |
-| Integration | SAP Business One Service Layer, JWT authentication |
-| Architecture & delivery | Clean Architecture, layered applications, Git, IIS |
+I have 10+ years of experience building business applications with **C#, ASP.NET Core, React, and SQL Server**. My work spans production planning, inventory, purchasing, and supplier coordination, including integration with SAP Business One.
 
 ## Selected work
 
-> These are experience highlights described in my profile, not links to public source-code repositories.
+| Project | What I worked on |
+| --- | --- |
+| **Manufacturing ERP** | Production planning, material requirements, inventory, purchasing, and master-data synchronization with SAP Business One. |
+| **Kanban and supplier planning** | Workflows that turn customer demand and safety-stock requirements into supplier allocations and dispatch plans. |
+| **Vendor portal** | Supplier-facing workflows for purchase orders, acknowledgements, invoices, and vendor coordination. |
+| **Engineering estimation** | Bill-of-materials costing, quotation preparation, revision control, and approvals. |
 
-### 🏭 Manufacturing ERP & production planning
-Manufacturing workflows spanning planning, material requirements, inventory, purchasing and ERP integration. **Focus:** traceable transactions, operational visibility and reliable master-data synchronization.
+## Technology
 
-### 📦 Kanban & supplier planning
-Planning workflows involving demand, safety stock, supplier allocation and dispatch coordination. **Focus:** converting customer demand into actionable supply plans.
+- **Backend** · C#, ASP.NET Core, ASP.NET MVC, REST APIs, Entity Framework, Dapper
+- **Frontend** · React, JavaScript, HTML, CSS, Bootstrap
+- **Data** · SQL Server, T-SQL, SAP HANA
+- **Integration and delivery** · SAP Business One Service Layer, JWT, Git, IIS
 
-### 🚚 Vendor portal
-Supplier-facing workflows for purchasing, acknowledgements, invoices and vendor coordination. **Focus:** reducing manual handoffs between procurement teams and suppliers.
+## Experience
 
-### 🧮 Engineering estimation
-BOM-driven estimation, quotation preparation and approval workflows. **Focus:** consistent costing inputs and controlled revisions.
-
-## Professional experience
-
-| Period | Role | Organization |
+| Role | Company | Period |
 | --- | --- | --- |
-| Nov 2023 – Present | Senior .NET Full Stack Developer | Covalsys Soft Private Limited |
-| 2019 – Nov 2023 | .NET Full Stack Developer | Gain Insights Solutions Private Limited |
-| Oct 2015 – 2019 | .NET Developer | Abile Business Solutions Private Limited |
+| Senior .NET Full Stack Developer | Covalsys Soft Private Limited | Nov 2023 – Present |
+| .NET Full Stack Developer | Gain Insights Solutions Private Limited | 2019 – Nov 2023 |
+| .NET Developer | Abile Business Solutions Private Limited | Oct 2015 – 2019 |
 
-## What I work on
-
-- Designing **ASP.NET Core REST APIs** with clear application and data boundaries.
-- Building **React** interfaces for operational and administrative workflows.
-- Modeling **SQL Server** data for manufacturing, inventory and planning.
-- Integrating **SAP Business One** and other enterprise systems.
-- Improving validation, traceability, authorization and maintainability.
-
-## GitHub activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anbarasan1992&show_icons=true&hide_border=true&theme=transparent" alt="GitHub activity statistics" />
-</div>
-
-> Statistics are provided by an external service and may be unavailable at times. Most of my enterprise work may not appear in public repositories.
-
-## Connect
-
-Find me on [GitHub](https://github.com/Anbarasan1992). For professional inquiries, please use the contact details listed on my GitHub account.
-
----
-
-<div align="center"><sub>Building maintainable software for real-world operations.</sub></div>
+[Browse my public repositories](https://github.com/Anbarasan1992?tab=repositories)
